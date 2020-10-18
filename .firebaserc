@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "intendencia-2d5c8": {
+      "hosting": {
+        "invetario": [
+          "intendencia-2d5c8"
+        ]
+      }
+    }
+  }
+}
